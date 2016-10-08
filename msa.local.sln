@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "msa.local", "D:\Servers\AppServ\Apache24\htdocs\msa.local\", "{79F37970-5EFF-4342-8E8C-2339C1574730}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_36302"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Servers\AppServ\Apache24\htdocs\msa.local\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_36302\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_36302"
+		Release.AspNetCompiler.PhysicalPath = "D:\Servers\AppServ\Apache24\htdocs\msa.local\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_36302\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "36302"
+		SlnRelativePath = "D:\Servers\AppServ\Apache24\htdocs\msa.local\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79F37970-5EFF-4342-8E8C-2339C1574730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79F37970-5EFF-4342-8E8C-2339C1574730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
